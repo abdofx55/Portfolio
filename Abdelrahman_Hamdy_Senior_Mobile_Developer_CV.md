@@ -12,31 +12,28 @@ Senior Mobile Developer with 6 years of experience building scalable Android, Fl
 ## Work Experience
 
 **❖ Senior Mobile Developer (Android | Flutter | KMP)**
-Pulse by Solutions (formerly Giza Systems, part of Solutions by STC) | Cairo, Egypt & Riyadh, KSA | Full-time, Hybrid | Jan 2023 – Present
+Pulse by Solutions (formerly Giza Systems, a Solutions by STC company) | Cairo, Egypt & Riyadh, KSA | Full-time, Hybrid | Jan 2023 – Present
 
-*   **Riyadh Parking — Remat Al-Riyadh:** Engineered the official smart parking platform for Riyadh, regulating 24,000+ paid commercial and 140,000+ residential parking spaces across the capital.
-    *   **Achievement:** Architected a scalable multi-module MVI codebase featuring dynamic theming to support multi-tenancy, and built custom Gradle convention plugins to standardize build logic.
-    *   *Tech Stack: Jetpack Compose, Coroutines, Flow, Hilt, Retrofit, Kotlin Serialization, Unit/UI/E2E Testing*
+*   **Riyadh Parking — Remat Al-Riyadh:** Engineered the official smart parking platform for Riyadh, regulating 24,000+ paid commercial and 140,000+ residential parking spaces across the capital as part of Saudi Arabia’s Vision 2030 initiative.
+    *Tech Stack: MVI, Multi-module, Jetpack Compose, Dynamic Theming, Multi-tenancy, Hilt, Coroutines, Flow, Retrofit, Kotlin Serialization, Custom Gradle Plugins, Unit/UI/E2E Testing*
 
-*   **MODON — Saudi Authority for Industrial Cities:** Developed the official mobile platform enabling investors to manage services across 35+ industrial cities nationwide.
-    *   **Achievement:** Spearheaded the implementation of Clean Architecture and MVVM patterns to ensure long-term maintainability and modular feature development.
-    *   *Tech Stack: MVVM, Clean Architecture, Hilt, Coroutines, Flow, Retrofit*
+*   **MODON — Saudi Authority for Industrial Cities:** Developed the official mobile platform for the Saudi industrial cities authority, enabling investors to manage services across 35+ industrial cities and technology zones nationwide.
+    *Tech Stack: MVVM, Clean Architecture, Hilt, Coroutines, Flow, Retrofit*
 
-*   **FahimBot:** Built an AI-powered chatbot delivering intelligent conversational experiences across platforms.
-    *   *Tech Stack: Flutter, Dart, BLoC, AI APIs (OpenAI)*
+*   **FahimBot:** Built an AI-powered chatbot using Flutter and OpenAI API, delivering intelligent conversational experiences across platforms.
+    *Tech Stack: Flutter, Dart, BLoC, OpenAI API*
 
 **❖ Senior Android Developer**
 Emirate Arabian Horse Society (EAHS) | Cairo, Egypt | Part-time, Remote | Sep 2023 – Mar 2024
-*   Developed the official digital platform enabling Arabian horse owners and breeders to access 20+ e-services including horse registration and auction participation.
-    *   **Achievement:** Delivered a production-ready, highly responsive application from the ground up utilizing modern Android architectural components.
-    *   *Tech Stack: MVVM, Hilt, Coroutines, Flow, Retrofit*
+*   Developed the official digital platform for the Emirates Arabian Horse Society (UAE), enabling Arabian horse owners and breeders to access 20+ e-services including horse registration, pedigree management, ownership transfers, and auction participation.
+    *Tech Stack: MVVM, Hilt, Coroutines, Flow, Retrofit*
 *   **App Link:** https://play.google.com/store/apps/details?id=com.eahs.main
 
 **❖ Android Software Engineer**
 Electric Power Systems Engineering Co. (EPS) | Cairo, Egypt | Full-time, On-site | Jan 2021 – Jan 2023
-*   Delivered 3 enterprise Android applications deployed across 9 state electricity distribution companies, serving a national grid of 40+ million subscribers.
-*   **Achievement:** Engineered a robust offline-first POS billing application with background auto-sync mechanisms, ensuring uninterrupted field operations in areas with unstable network connectivity.
-    *   *Tech Stack: MVVM, Hilt, Coroutines, Flow, Retrofit, Kotlin Serialization, Room, Datastore, Data Binding*
+*   Delivered 3 enterprise Android applications deployed across all 9 state electricity distribution companies in Egypt, collectively serving a national grid of 40+ million subscribers — covering billing collection, meter reading, and power theft enforcement.
+*   Engineered an offline-first POS billing app with auto-sync capabilities, ensuring uninterrupted operations in areas with unstable network connectivity.
+    *Tech Stack: MVVM, Hilt, Coroutines, Flow, Retrofit, Kotlin Serialization, Room, Datastore, Data Binding*
 *   Collaborated cross-functionally with QA, product, design, and support teams throughout the full development lifecycle.
 *   Led employee training sessions for electricity company field teams on application rollout and usage.
 
