@@ -320,9 +320,16 @@ a {
 }
 
 .timeline-content ul {
-    list-style-position: inside;
+    list-style-position: outside;
+    margin-left: 1.2rem;
     color: var(--text-secondary);
     line-height: 1.5;
+}
+
+.timeline-content ul ul {
+    margin-top: 0.3rem;
+    margin-left: 1rem;
+    list-style-type: circle;
 }
 
 .timeline-content ul li {
