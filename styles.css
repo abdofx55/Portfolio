@@ -101,7 +101,7 @@ a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 120px 2rem 40px 2rem;
+    padding: 120px 2rem 120px 2rem;
     position: relative;
     background: radial-gradient(circle at center, var(--bg-secondary) 0%, var(--bg-primary) 100%);
 }
@@ -109,6 +109,7 @@ a {
 .hero-content {
     max-width: 1000px;
     animation: fadeIn 1s ease-out forwards;
+    margin-bottom: 2rem;
 }
 
 .greeting {
@@ -200,7 +201,7 @@ a {
 
 .scroll-indicator {
     position: absolute;
-    bottom: 2rem;
+    bottom: 1.5rem;
     left: 50%;
     transform: translateX(-50%);
     animation: bounce 2s infinite;
