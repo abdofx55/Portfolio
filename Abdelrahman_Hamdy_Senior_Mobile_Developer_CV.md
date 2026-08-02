@@ -15,7 +15,7 @@ Senior Mobile Developer with 6 years of experience building scalable Android, Fl
 Pulse by Solutions (formerly Giza Systems, a Solutions by STC company) | Cairo, Egypt & Riyadh, KSA | Full-time, Hybrid | Jan 2023 – Present
 
 *   **Riyadh Parking — Remat Al-Riyadh:** Engineered the official smart parking platform for Riyadh, regulating 24,000+ paid commercial and 140,000+ residential parking spaces across the capital as part of Saudi Arabia’s Vision 2030 initiative.
-    *Tech Stack: MVI, Multi-module, Jetpack Compose, Dynamic Theming, Multi-tenancy, Hilt, Coroutines, Flow, Retrofit, Kotlin Serialization, Custom Gradle Plugins, Unit/UI/E2E Testing*
+    *Tech Stack: MVI, Multi-module, Jetpack Compose, Dynamic Theming, Multi-tenancy, Hilt, Coroutines, Flow, Retrofit, Unit/UI/E2E Testing*
 
 *   **MODON — Saudi Authority for Industrial Cities:** Developed the official mobile platform for the Saudi industrial cities authority, enabling investors to manage services across 35+ industrial cities and technology zones nationwide.
     *Tech Stack: MVVM, Clean Architecture, Hilt, Coroutines, Flow, Retrofit*

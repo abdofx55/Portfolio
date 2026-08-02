@@ -329,7 +329,7 @@ a {
 .timeline-content ul ul {
     margin-top: 0.3rem;
     margin-left: 1rem;
-    list-style-type: circle;
+    list-style-type: "- ";
 }
 
 .timeline-content ul li {
