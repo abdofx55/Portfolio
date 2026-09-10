@@ -35,6 +35,10 @@ Pulse by Solutions (formerly Giza Systems, a Solutions by STC company) | Cairo, 
     *Tech Stack: MVI, Multi-module, Jetpack Compose, Multi-tenancy, Hilt, Coroutines, Flow, Retrofit, Unit/UI/E2E Testing*
 *   **MODON — Saudi Authority for Industrial Cities:** Developed the official mobile platform for the Saudi industrial cities authority, enabling investors to manage services across 35+ industrial cities and technology zones nationwide.
     *Tech Stack: MVVM, Clean Architecture, Hilt, Coroutines, Flow, Retrofit*
+*   **My NTRA — National Telecom Regulatory Authority:** Architected and delivered the official mobile application for Egypt's telecom regulator (NTRA), empowering citizens to verify registered mobile lines and digital wallets via National ID, manage operator complaints, and validate device IMEIs.
+    *Tech Stack: Kotlin, MVVM, Clean Architecture, Koin, Coroutines, StateFlow, Retrofit, Room, AndroidX Security, GMS/HMS Flavors*
+*   **Telephony — NTRA Citizen App (Customs & CEIR):** Engineered the official device registration app for Egypt's NTRA and Customs Authority, streamlining international IMEI registration, automated passport OCR scanning via Regula Forensics, and in-app duty payments via Mastercard Gateway (MPGS).
+    *Tech Stack: Kotlin, MVVM, Multi-module, Clean Architecture, Koin, Regula Forensics OCR, Mastercard MPGS, Coroutines, Retrofit, AndroidX Security*
 *   **FahimBot:** Built an AI-powered chatbot using Flutter and OpenAI API, delivering intelligent conversational experiences.
     *Tech Stack: Flutter, Dart, BLoC, OpenAI API*
 *   Served as Release Lead for production rollout, driving sprint deliveries, conducting rigorous code reviews, and mentoring mobile developers.
