@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Senior Mobile Developer with 6 years of experience building scalable Android, Flutter, and Kotlin Multiplatform (KMP) applications for enterprise and government organizations across Saudi Arabia, UAE, and Egypt. Skilled in designing maintainable mobile architectures, leading feature development, and delivering production-ready solutions with a strong focus on performance, code quality, testing, and user experience. Passionate about building scalable software, improving engineering practices, and delivering exceptional user experiences.
+Senior Mobile Developer with 6 years of experience building high-scale Android, Flutter, and Kotlin Multiplatform (KMP) applications for enterprise and government entities across Saudi Arabia, UAE, and Egypt—including national platforms serving 10M+ to 40M+ users. Skilled in designing maintainable architectures, leading feature delivery, and ensuring high code quality and test coverage. Passionate about engineering reliable offline-first solutions and driving robust mobile ecosystems.
 
 ---
 
