@@ -364,6 +364,16 @@ a {
     margin-bottom: 0.5rem;
 }
 
+.timeline-content a {
+    color: #6366f1;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+.timeline-content a:hover {
+    color: var(--accent);
+}
+
 /* Projects Grid */
 .project-grid {
     display: grid;
