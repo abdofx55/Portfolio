@@ -35,10 +35,10 @@ Pulse by Solutions (formerly Giza Systems, a Solutions by STC company) | Cairo, 
     *Tech Stack: MVI, Multi-module, Jetpack Compose, Multi-tenancy, Hilt, Coroutines, Flow, Retrofit, Unit/UI/E2E Testing*
 *   **MODON — Saudi Authority for Industrial Cities:** Developed the official mobile platform for the Saudi industrial cities authority, enabling investors to manage services across 35+ industrial cities and technology zones nationwide.
     *Tech Stack: MVVM, Clean Architecture, Hilt, Coroutines, Flow, Retrofit*
-*   **My NTRA:** Architected and delivered Egypt's official telecom regulatory mobile platform serving 10M+ users, empowering citizens to verify registered mobile lines and digital wallets via National ID, manage operator disputes, and validate device IMEIs.
+*   **My NTRA — Egypt National Telecom Regulatory Authority:** Architected and delivered the official national telecom regulatory mobile platform under Egypt's Ministry of Communications (NTRA), serving 10M+ users, empowering citizens to verify registered mobile lines and digital wallets via National ID, manage operator disputes, and validate device IMEIs.
     *Tech Stack: Kotlin, MVVM, Clean Architecture, Koin, Coroutines, StateFlow, Retrofit, Room, AndroidX Security, GMS/HMS Flavors*  
     **App Link:** [Google Play Store](https://play.google.com/store/apps/details?id=eg.gov.tra)
-*   **Telephony:** Engineered the official device registration platform for NTRA and Egypt Customs Authority serving 1M+ users, streamlining international IMEI customs clearance, passport OCR scanning via Regula Forensics, and in-app duty payments via Mastercard Gateway (MPGS).
+*   **Telephony — Egypt Customs & Telecom Authority:** Engineered the official national device registration platform for Egypt Customs Authority and NTRA, serving 1M+ users, streamlining international IMEI customs clearance, passport OCR scanning via Regula Forensics, and in-app duty payments via Mastercard Gateway (MPGS).
     *Tech Stack: Kotlin, MVVM, Multi-module, Clean Architecture, Koin, Regula Forensics OCR, Mastercard MPGS, Coroutines, Retrofit, AndroidX Security*  
     **App Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.ntra.citizen)
 *   **FahimBot:** Built an AI-powered chatbot using Flutter and OpenAI API, delivering intelligent conversational experiences.
